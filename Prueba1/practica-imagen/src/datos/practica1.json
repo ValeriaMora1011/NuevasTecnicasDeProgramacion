@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "color": {"backgroundColor":"yellow"},
+        "nombre":"imágen de prueba 1",
+        "flag": true
+    },
+    {
+        "id":1,
+        "color": {"backgroundColor":"blue"},
+        "nombre":"imágen de prueba 2",
+        "flag": true
+    },
+    {
+        "id":2,
+        "color": {"backgroundColor":"red"},
+        "nombre":"imágen de prueba 3",
+        "flag": true
+    },
+    {
+        "id":3,
+        "color": {"backgroundColor":"green"},
+        "nombre":"imágen de prueba 4",
+        "flag": true
+    }
+]
